@@ -28,7 +28,7 @@ SO THAT our own site is optimized for search engines
 
 ### Acceptance Criteria
 
-Your website must meet accessibility standards. You can achieve this completing the following:
+A website must meet accessibility standards. You can achieve this completing the following:
 
 * Semantic HTML elements can be found throughout the source code
 * HTML elements follow a logical structure independent of styling and positioning
@@ -119,6 +119,7 @@ You are required to submit the following for review:
 
 ---
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+
 
   ### Research Story
  Semantic Elements in HTML
